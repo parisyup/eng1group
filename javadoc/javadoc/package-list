@@ -1,0 +1,13 @@
+net.shipsandgiggles.pirate
+net.shipsandgiggles.pirate.cache
+net.shipsandgiggles.pirate.conf
+net.shipsandgiggles.pirate.currency
+net.shipsandgiggles.pirate.entity
+net.shipsandgiggles.pirate.entity.college
+net.shipsandgiggles.pirate.entity.impl.college
+net.shipsandgiggles.pirate.listener
+net.shipsandgiggles.pirate.pref
+net.shipsandgiggles.pirate.screen
+net.shipsandgiggles.pirate.screen.impl
+net.shipsandgiggles.pirate.task
+net.shipsandgiggles.pirate.util
